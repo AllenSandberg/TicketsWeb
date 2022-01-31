@@ -1,0 +1,58 @@
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.deps.json
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csprojAssemblyReference.cache
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csproj.CoreCompileInputs.cache
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.AssemblyInfoInputs.cache
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.AssemblyInfo.cs
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csproj.CopyComplete
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Svn\svn-astech\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.deps.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.deps.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csprojAssemblyReference.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.AssemblyInfo.cs
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csproj.CopyComplete
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.deps.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csprojAssemblyReference.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.AssemblyInfo.cs
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.csproj.CopyComplete
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\BuisnessLogic\obj\Debug\netcoreapp2.0\BuisnessLogic.pdb

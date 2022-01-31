@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "Sign In";
+    Layout = "~/Views/Shared/NoLoggedIn/_NoLoggedInLayout.cshtml";
+}
+@section Scripts
+{
+    <script src="@Url.Content("~/js/loginpage.js")"></script>
+}
+
+
+
+<div class="jarviswidget jarviswidget-color-darken jarviswidget-sortable" id="wid-id-0" data-widget-fullscreenbutton="false" data-widget-collapsed="false" data-widget-editbutton="false" data-widget-deletebutton="false" role="widget">
+
+    <header role="heading">
+        <h2>כניסה לחשבונך</h2>
+    </header>
+
+    <!-- widget div-->
+    <div role="content">
+
+        <!-- widget content -->
+        <div class="widget-body">
+
+            <div class="row">
+                <form id="login-form" method="post" asp-action="Index" asp-controller="Login">
+                    <div id="bootstrap-wizard-1" class="col-sm-12">
+
+                        <div class="row">
+
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="fa fa-envelope fa-lg fa-fw"></i></span>
+                                        <input class="form-control input-lg" placeholder="Email" type="text" name="email" id="email">
+                                    </div>
+                                    <span class="help-block"></span>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="fa fa-user fa-lg fa-fw"></i></span>
+                                        <input class="form-control input-lg" placeholder="Password" type="password" name="password" id="password">
+                                    </div>
+                                    <span id="general-error" class="help-block"></span>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+                            <div class="col-sm-12">
+                                
+                                <div class="pull-left">
+                                    <a href="forgotpassword.html">שכחת סיסמה?</a>
+                                </div>
+                                
+
+                                
+                            </div>
+                        </div>
+
+                        <div class="form-actions">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <ul class="pager wizard no-margin no-steps-container">
+                                        <li class="next">
+                                            <button type="submit" disabled id="btn-submit" class="btn btn-primary btn-lg">
+                                                כניסה
+                                            </button>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </form>
+            </div>
+
+        </div>
+
+
+        <!-- end widget content -->
+
+    </div>
+    <!-- end widget div -->
+
+</div>
+
+
+
+

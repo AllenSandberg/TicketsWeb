@@ -1,0 +1,36 @@
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.deps.json
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.csprojAssemblyReference.cache
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.csproj.CoreCompileInputs.cache
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.AssemblyInfoInputs.cache
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.AssemblyInfo.cs
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.dll
+C:\Svn\svn-astech\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.deps.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.deps.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.csprojAssemblyReference.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.AssemblyInfo.cs
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.deps.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.csprojAssemblyReference.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.AssemblyInfo.cs
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataObjects\obj\Debug\netcoreapp2.0\DataObjects.pdb

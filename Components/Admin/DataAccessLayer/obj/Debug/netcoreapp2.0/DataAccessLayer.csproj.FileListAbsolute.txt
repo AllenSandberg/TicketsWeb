@@ -1,0 +1,48 @@
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.deps.json
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CopyComplete
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Svn\svn-astech\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.deps.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.deps.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.deps.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Components\Admin\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.pdb

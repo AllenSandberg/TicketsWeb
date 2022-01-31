@@ -1,0 +1,88 @@
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.deps.json
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.runtimeconfig.json
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.runtimeconfig.dev.json
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.dll
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.pdb
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Svn\svn-astech\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Svn\svn-astech\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csprojAssemblyReference.cache
+C:\Svn\svn-astech\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csproj.CoreCompileInputs.cache
+C:\Svn\svn-astech\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.AssemblyInfoInputs.cache
+C:\Svn\svn-astech\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.AssemblyInfo.cs
+C:\Svn\svn-astech\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csproj.CopyComplete
+C:\Svn\svn-astech\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.dll
+C:\Svn\svn-astech\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.pdb
+C:\Svn\svn-astech\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.deps.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.runtimeconfig.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.genruntimeconfig.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.deps.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.runtimeconfig.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.runtimeconfig.dev.json
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csprojAssemblyReference.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.AssemblyInfo.cs
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csproj.CopyComplete
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.genruntimeconfig.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.deps.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.runtimeconfig.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.runtimeconfig.dev.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\AdminApi.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\BuisnessLogic.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\DataObjects.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\BuisnessLogic.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\bin\Debug\netcoreapp2.0\DataObjects.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csprojAssemblyReference.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.AssemblyInfo.cs
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.csproj.CopyComplete
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\Services\AdminApi\obj\Debug\netcoreapp2.0\AdminApi.genruntimeconfig.cache

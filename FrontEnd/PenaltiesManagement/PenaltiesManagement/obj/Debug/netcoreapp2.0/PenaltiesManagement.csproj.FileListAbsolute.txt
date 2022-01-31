@@ -1,0 +1,68 @@
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\bower.json
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.deps.json
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.runtimeconfig.json
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.runtimeconfig.dev.json
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.dll
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.pdb
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.csprojAssemblyReference.cache
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.csproj.CoreCompileInputs.cache
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.AssemblyInfoInputs.cache
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.AssemblyInfo.cs
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.dll
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.pdb
+C:\Svn\svn-astech\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.deps.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.runtimeconfig.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.dll
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\Projects\Alon\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.genruntimeconfig.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.deps.json
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.runtimeconfig.json
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.runtimeconfig.dev.json
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.csprojAssemblyReference.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.AssemblyInfo.cs
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.dll
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.pdb
+C:\Users\Sandberg\Downloads\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.genruntimeconfig.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.deps.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.runtimeconfig.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.runtimeconfig.dev.json
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\bin\Debug\netcoreapp2.0\PenaltiesManagement.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.csprojAssemblyReference.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.AssemblyInfoInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.AssemblyInfo.cs
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.dll
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.pdb
+C:\Users\Sandberg\Documents\Visual Studio 2019\Projects\TRCC .NET\FrontEnd\PenaltiesManagement\PenaltiesManagement\obj\Debug\netcoreapp2.0\PenaltiesManagement.genruntimeconfig.cache

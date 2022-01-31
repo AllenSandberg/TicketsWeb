@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hxlodOoPZIPvO/fiebTjcIR3ScNI1y+nrWidVrYwaTYfl5hRG8PmC/6GcYj774YfWQOevSZ3ypcWGEh9DWnmpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataObjects\\DataObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sandberg\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sandberg\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sandberg\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sandberg\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sandberg\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sandberg\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

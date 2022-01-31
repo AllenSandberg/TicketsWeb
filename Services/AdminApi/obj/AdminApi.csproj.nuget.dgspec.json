@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Services\\AdminApi\\AdminApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\BuisnessLogic\\BuisnessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\BuisnessLogic\\BuisnessLogic.csproj",
+        "projectName": "BuisnessLogic",
+        "projectPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\BuisnessLogic\\BuisnessLogic.csproj",
+        "packagesPath": "C:\\Users\\Sandberg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\BuisnessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Sandberg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataObjects\\DataObjects.csproj": {
+                "projectPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataObjects\\DataObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "EnterpriseLibrary.Data.NetCore": {
+              "target": "Package",
+              "version": "[6.0.1310, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataObjects\\DataObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataObjects\\DataObjects.csproj",
+        "projectName": "DataObjects",
+        "projectPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataObjects\\DataObjects.csproj",
+        "packagesPath": "C:\\Users\\Sandberg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Services\\AdminApi\\AdminApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Services\\AdminApi\\AdminApi.csproj",
+        "projectName": "AdminApi",
+        "projectPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Services\\AdminApi\\AdminApi.csproj",
+        "packagesPath": "C:\\Users\\Sandberg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Services\\AdminApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\BuisnessLogic\\BuisnessLogic.csproj": {
+                "projectPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\BuisnessLogic\\BuisnessLogic.csproj"
+              },
+              "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Sandberg\\Documents\\Visual Studio 2019\\Projects\\TRCC .NET\\Components\\Admin\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

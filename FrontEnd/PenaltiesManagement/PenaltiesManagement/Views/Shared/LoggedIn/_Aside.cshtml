@@ -1,0 +1,77 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+<aside id="left-panel">
+
+    <!-- User info -->
+    <div class="login-info">
+        <span>
+            <!-- User image size is adjusted inside CSS, it should stay as it -->
+
+            <a href="javascript:void(0);" id="show-shortcut" data-action="toggleShortcut">
+                <img src="/img/avatars/male.png" alt="me" class="online" />
+                <span>
+                    @{
+                        @using System.Text;
+                        @using Microsoft.AspNetCore.Mvc;
+
+                        byte[] userNameBytes;
+                        HttpContextAccessor.HttpContext.Session.TryGetValue("AdminUserName", out userNameBytes);
+                        var userName = (userNameBytes == null ? "" : Encoding.UTF8.GetString(userNameBytes));
+                    }
+                    @userName
+                </span>
+                <i class="fa fa-angle-down"></i>
+            </a>
+
+        </span>
+    </div>
+    <!-- end user info -->
+    <!-- NAVIGATION : This navigation is also responsive-->
+    <nav>
+        <!--
+    NOTE: Notice the gaps after each icon usage <i></i>..
+    Please note that these links work a bit different than
+    traditional href="" links. See documentation for details.
+    -->
+
+        <ul>
+            <li class="@(Context.Request.Path == "/"?"active":"")">
+                <a href="/" title="Dashboard"><i class="fa fa-lg fa-fw fa-home"></i> <span class="menu-item-parent">לוּחַ מַחווָנִים</span></a>
+            </li>
+            <li class="top-menu-invisible">
+                <a href="#"><i class="fa fa-lg fa-fw fa-cube txt-color-blue"></i> <span class="menu-item-parent">דוחות</span></a>
+                <ul>
+                    <li class="@(Context.Request.Path.ToString().ToLower().Contains("reports/ticket")?"active":"")">
+                        <a href="/Reports/Tickets" title="פניות"><i class="fa fa-lg fa-fw fa-gear"></i> <span class="menu-item-parent">הפניות</span></a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-lg fa-fw fa-cube txt-color-blue"></i> <span class="menu-item-parent">מערכת</span></a>
+                <ul>
+                    <li class="@(Context.Request.Path.ToString().ToLower().Contains("system/user") ?"active":"")">
+                        <a href="/system/users" title="Users List"><i class="fa fa-lg fa-fw fa-gear"></i> <span class="menu-item-parent">ניהול מנהלים</span></a>
+                    </li>
+                    <li class="@(Context.Request.Path.ToString().ToLower().Contains("system/client/doc") ?"active":"")">
+                        <a href="/system/client/document/types" title="סוגים של מסמכים"><i class="fa fa-lg fa-fw fa-gear"></i> <span class="menu-item-parent">סוגים של מסמכים</span></a>
+                    </li>
+                    <li class="@(Context.Request.Path.ToString().ToLower().Contains(" system/statuses") ?"active":"")">
+                        <a href="/system/statuses" title="סטטוסים"><i class="fa fa-lg fa-fw fa-gear"></i> <span class="menu-item-parent">סטטוסים</span></a>
+                    </li>
+                    <li class="@(Context.Request.Path.ToString().ToLower().Contains("system/document/templates") ?"active":"")">
+                        <a href="/system/document/templates" title="סטטוסים"><i class="fa fa-lg fa-fw fa-gear"></i> <span class="menu-item-parent">תבניות של מסמכים</span></a>
+                    </li>
+                </ul>
+            </li>
+        <li>
+            <a href="/Login"><i class="fa fa-lg fa-fw fa-inbox"></i> <span class="menu-item-parent">המנתק</span></a>
+        </li>
+
+        </ul>
+    </nav>
+
+
+    <span class="minifyme" data-action="minifyMenu">
+        <i class="fa fa-arrow-circle-left hit"></i>
+    </span>
+
+</aside>
